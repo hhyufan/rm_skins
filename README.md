@@ -55,10 +55,12 @@ SliderWidth=100  ; 滑块长度
 ## 效果预览
 
 `SimpleElectricDisplay` 运行效果：
-![电量显示截图](images\preview.png)
+
+![电量显示截图](images/preview.png)
 
 `SoundController` 运行效果：
-![声音控制截图](images\preview2.png)
+
+![声音控制截图](images/preview2.png)
 
 ## 许可证
 
